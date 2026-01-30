@@ -1,0 +1,6 @@
+Flask
+Flask-Limiter
+fpdf
+lxml
+requests
+Jinja2
