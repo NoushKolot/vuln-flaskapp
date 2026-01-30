@@ -1,6 +1,6 @@
-Flask
-Flask-Limiter
-fpdf
-lxml
-requests
-Jinja2
+Flask==1.1.2
+Flask-Limiter==1.4
+fpdf==1.7.2
+lxml==4.6.3
+requests==2.18.4
+Jinja2==2.11.1
